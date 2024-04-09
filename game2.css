@@ -1,0 +1,105 @@
+
+
+.heading {
+    text-align: center;
+    color: black;
+}
+
+#Welcome {
+    color: blueviolet;
+
+}
+
+#Instructions {
+    color: blueviolet;
+}
+
+#desc {
+    color: blueviolet;
+    font-weight: bolder;
+}
+
+#desc2 {
+    margin-left: 20px;
+    font-size: large;
+    font-weight: bolder;
+}   
+
+#fun {
+    font-weight: bolder;
+}
+
+body {
+    
+    background-image: linear-gradient(black,blueviolet,rgb(160, 86, 230),rgb(192,137,243))
+
+}
+
+#computerchoice {
+    color: black;
+    text-align: center;
+}
+
+#playerchoice {
+    color: black;
+    text-align: center;
+}
+.Userchoice {
+    text-align: center;
+}
+
+#result {
+    color: black;
+    text-align: center;
+}
+
+#playgame {
+    background-color: blueviolet;
+    color: black;
+    padding: 5px;
+    border-color: black;
+    border: solid;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+#playgame:hover {
+    border-color: rgb(192,137,243);
+    color: rgb(192,137,243);
+    transition: 0.3s;
+}
+
+#playgame:active {
+    color: rgb(74, 15, 129);
+    border-color: rgb(74, 15, 129);
+    transition: 0.1s;
+}
+
+#Instructions {
+    color: black;
+}
+
+#desc {
+    color: black;
+}
+
+.quartz {
+ text-align: center;
+}
+.parchment {
+    text-align: center;
+}
+.shears {
+    text-align: center;
+}
+
+
+
+/* #playgame {
+    color: black;
+    background-color: blueviolet;
+    border-width: 3px;
+    border: solid;
+    padding: 10px;
+} */
+

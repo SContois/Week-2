@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(19, 3, 49);
+}
+
+.game-button {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.button {
+    color: blueviolet;
+    border-color: blueviolet;
+    border-width: 3px;
+    background-color:rgb(96, 31, 129);
+    font-size: larger;
+    border: solid;
+    transition: 0.3s;
+    
+}
+
+.button:hover {
+    opacity: 0.8;
+}   
+
+.button:active {
+    color: rgb(195, 160, 228);
+    border-color: rgb(195, 160, 228);
+    transition: 0.1s;
+}0
